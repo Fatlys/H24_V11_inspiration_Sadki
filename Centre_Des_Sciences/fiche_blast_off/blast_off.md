@@ -1,2 +1,2 @@
 # Centre Des Sciences
-![Image](Image (16).jfif)
+![Image](CentreDesSciences.jfif)
