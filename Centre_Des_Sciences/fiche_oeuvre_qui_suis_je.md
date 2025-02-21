@@ -26,3 +26,21 @@ Réalisé en 2024 par
 
 
 L'activité *Qui suis-je ?* est une expérience sensorielle interactive qui se concentre sur l'odorat et la réflexion. Le participant doit sentir une odeur particulière, puis lire une devinette pour l'aider à réfléchir. Il doit ensuite deviner l'aliment associé à cette odeur. 
+
+## Type d'installation
+
+**Type** : Dispositif interactif sensoriel.
+
+## Mise en Espace
+
+La station comprend les éléments suivants :
+- Diffuseur d'odeurs
+- Écran informatif
+- Éléments visuels associés (ex : fumée, représentations d’aliments)
+
+## Composantes et Techniques
+
+Les composantes techniques incluent :
+- **Diffuseur d’odeurs**
+- **écran numérique** pour l'interaction
+- **Câbles d'alimentation**
