@@ -50,19 +50,18 @@ Les composantes techniques incluent :
 
 ---
 
-
-## Expérience personnelle
-
-Ce qui m'a plu : L’aspect interactif et immersif de l’expérience, la surprise de découvrir les réponses et l’ajout d’explications sur les aliments, ce qui rend l’expérience à la fois ludique et éducative. 
-Apprendre d’où viennent les aliments et comment ils sont utilisés dans différentes cultures était fascinant.
-Ce que j’aurais fait autrement : Ajouter plus de variétés d’odeurs pour enrichir l'expérience et rendre les devinettes plus engageantes, ou même introduire un mode "difficulté" pour varier les défis.
-
 | Vue d'ensemble | Détails |
 |----------|----------|
 | ![Oeuvre 1](Photo/oeuvre_ensemble.jpg) | ![Oeuvre 2](Photo/oeuvre_text_02.jpg) |
 
 
 ---
+
+## Expérience personnelle
+
+Ce qui m'a plu : L’aspect interactif et immersif de l’expérience, la surprise de découvrir les réponses et l’ajout d’explications sur les aliments, ce qui rend l’expérience à la fois ludique et éducative. 
+Apprendre d’où viennent les aliments et comment ils sont utilisés dans différentes cultures était fascinant.
+Ce que j’aurais fait autrement : Ajouter plus de variétés d’odeurs pour enrichir l'expérience et rendre les devinettes plus engageantes, ou même introduire un mode "difficulté" pour varier les défis.
 
 
 # Références
