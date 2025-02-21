@@ -54,6 +54,12 @@ Ce que j’aurais fait autrement : Ajouter plus de variétés d’odeurs pour en
 |----------|----------|
 | ![Oeuvre 1](Photo/oeuvre_ensemble.jpg) | ![Oeuvre 2](Photo/oeuvre_text_02.jpg) |
 
+# Références
+
+
+| Référence 1 | Référence 2 |
+|-------------|-------------|
+| ![Référence 1](Photo/references_01.jpg) | ![Référence 2](Photo/references_02.jpg) |
 
 
 
