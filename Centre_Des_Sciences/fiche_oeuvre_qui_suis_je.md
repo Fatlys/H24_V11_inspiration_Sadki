@@ -46,6 +46,9 @@ Les composantes techniques incluent :
 - **écran numérique** pour l'interaction
 - **Câbles d'alimentation**
 
+---
+
+
 ## Expérience personnelle
 
 Ce qui m'a plu : L’aspect interactif et immersif de l’expérience, la surprise de découvrir les réponses et l’ajout d’explications sur les aliments, ce qui rend l’expérience à la fois ludique et éducative. 
