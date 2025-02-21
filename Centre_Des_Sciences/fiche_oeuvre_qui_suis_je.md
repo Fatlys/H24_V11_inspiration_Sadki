@@ -13,7 +13,9 @@ Elle se déroule au Centre des sciences de Montréal dans le Vieux-Port et propo
 
 Les visiteurs peuvent explorer différentes techniques de coupe, sentir des arômes variés et participer à un banquet fictif. Une façon amusante et éducative de découvrir la science derrière nos repas !
 
-Réalisé en 2024 par 
+Réalisé en 2024 par *Cité des Sciences et de l'Industrie*
+
+(Visité le 31 Janvier 2025)
 
 ---
 ## Activité documentée : "Qui suis-je ?"
