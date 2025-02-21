@@ -65,6 +65,7 @@ Apprendre d’où viennent les aliments et comment ils sont utilisés dans diff�
 ### Ce que j’aurais fait autrement : 
 Ajouter plus de variétés d’odeurs pour enrichir l'expérience et rendre les devinettes plus engageantes, ou même introduire un mode "difficulté" pour varier les défis.
 
+---
 
 # Références
 
