@@ -18,4 +18,13 @@ Réalisé en 2024 par
 ---
 ## Activité documentée : "Qui suis-je ?"
 
+# Tableau d'images
+
+| Oeuvre 1 | Oeuvre 2 |
+|----------|----------|
+| ![Oeuvre 1](Photo/oeuvre_details_01.jpg) | ![Oeuvre 2](Photo/oeuvre_details_02.jpg) |
+| Oeuvre 3 | Oeuvre 4 |
+| ![Oeuvre 3](Photo/oeuvre_details_03.jpg) | ![Oeuvre 4](Photo/oeuvre_details_04.jpg) |
+
+
 L'activité *Qui suis-je ?* est une expérience sensorielle interactive qui se concentre sur l'odorat et la réflexion. Le participant doit sentir une odeur particulière, puis lire une devinette pour l'aider à réfléchir. Il doit ensuite deviner l'aliment associé à cette odeur. 
