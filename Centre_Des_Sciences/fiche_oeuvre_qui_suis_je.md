@@ -2,4 +2,4 @@
 
 
 
-<img src="Photo/centre_image.jpg" alt="Texte alternatif" width="=600">
+<img src="Photo/centre_image.jpg" alt="Texte alternatif" width="=400">
