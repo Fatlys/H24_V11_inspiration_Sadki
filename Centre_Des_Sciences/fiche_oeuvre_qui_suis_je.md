@@ -18,7 +18,7 @@ Réalisé en 2024 par *Cité des Sciences et de l'Industrie*
 (Visité le 31 Janvier 2025)
 
 ---
-## Activité documentée : "Qui suis-je ?"
+## L'Oeuvre documentée : "Qui suis-je ?"
 
 | image 1 | image 2 |
 |----------|----------|
@@ -29,7 +29,7 @@ Réalisé en 2024 par *Cité des Sciences et de l'Industrie*
 ---
 
 
-L'activité *Qui suis-je ?* est une expérience sensorielle interactive qui se concentre sur l'odorat et la réflexion. Le participant doit sentir une odeur particulière, puis lire une devinette pour l'aider à réfléchir. Il doit ensuite deviner l'aliment associé à cette odeur. 
+L'oeuvre  *Qui suis-je ?* est une expérience sensorielle interactive qui se concentre sur l'odorat et la réflexion. Le participant doit sentir une odeur particulière, puis lire une devinette pour l'aider à réfléchir. Il doit ensuite deviner l'aliment associé à cette odeur. 
 
 ## Type d'installation
 
