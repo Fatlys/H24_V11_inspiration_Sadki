@@ -1,4 +1,4 @@
-# EXPOSITION FINISSANT TIM 2025 - RESONANCE
+# EXPOSITION FINISSANT 2025 - RESONANCE  
 
 
 ## Info sur l'exposition
@@ -6,6 +6,8 @@
 - **Lieu** : [Collège Montmorency]
 - **Dates** : 17 au 21 mars 2025
 - **Type** : Temporaire, en intérieur
+
+---
 
 ## Arcadia
 
@@ -23,7 +25,7 @@ Une installation qui nous plonge dans une ambiance rétro inspirée des ancienne
 J’ai beaucoup apprécié l’aspect nostalgique de l’installation. Le fait que tout ait été réalisé par les étudiants, du son au visuel, rend le projet très impressionnant. On sentait une vraie volonté de recréer l’atmosphère des salles d’arcade d’autrefois, et c’était réussi !
 
 
-
+---
 
 ## Prismatica
 
