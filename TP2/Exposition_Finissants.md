@@ -9,9 +9,10 @@
 
 ## Arcadia
 
-| Cables | Plaque Métallique et Cables |
-|----------|----------|
-| ![Oeuvre 1](Media/Photo_Prise_Sur_Les_GitHub_Des_Expo/photo_Arcadia_01.jpg) | !(Media/Photo_Prise_Sur_Les_GitHub_Des_Expo/photo_Arcadia_02.png) |
+<p align="center">
+  <img src="Media/Photo_Prise_Sur_Les_GitHub_Des_Expo/photo_Arcadia_01.jpg" width="700">
+  <br>
+</p>
 
 
 
