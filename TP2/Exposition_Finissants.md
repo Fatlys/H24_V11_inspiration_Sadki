@@ -58,3 +58,13 @@ Voici les principaux éléments techniques qui composent Luminatura :
 | ![Oeuvre 1](Media/Cable.jpg) | ![Oeuvre 2](Media/cable_02.jpg) |
 | Haut-parleur | Lanterneet Ampoules |
 | ![Oeuvre 3](Media/Haut-parleur.jpg) | ![Oeuvre 4](Media/Dispositife_02.jpg) |
+
+## RÉFLEXIONS PERSONNELLES  
+
+### Ce qui m’a marqué  
+J’ai adoré le fait que cette installation ne soit pas seulement un spectacle à observer, mais une œuvre qui prend véritablement vie grâce à l’interaction du spectateur. Poser les mains sur les plaques métalliques et entendre un son spécifique en réponse donnait l’impression d’être un élément essentiel du projet.  
+
+### Ce que j’ai préféré  
+L’expérience était particulièrement intéressante lorsque plusieurs personnes interagissaient simultanément avec les différentes plaques, créant ainsi une symphonie visuelle et sonore unique. Cela renforçait l’idée de connexion entre les visiteurs, ce qui ajoutait une belle dimension sociale à l’installation.  
+
+---
