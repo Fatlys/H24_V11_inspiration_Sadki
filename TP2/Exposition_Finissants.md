@@ -53,7 +53,7 @@ Voici les principaux éléments techniques qui composent Luminatura :
 - 🏮 **5 ampoules**  
 - 🎥 **2 projecteurs**  
 
-| Cables | Cables |
+| Cables | Plaque Métallique et Cables |
 |----------|----------|
 | ![Oeuvre 1](Media/Cable.jpg) | ![Oeuvre 2](Media/cable_02.jpg) |
 | Haut-parleur | Lanterneet Ampoules |
