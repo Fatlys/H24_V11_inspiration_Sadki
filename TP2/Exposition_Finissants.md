@@ -81,3 +81,11 @@ L’idée de voir un arbre évoluer en fonction de nos interactions est fascinan
 | Tout seul | Avec une autre personne |
 |---------|-----------------|
 | ![Oeuvre 1](Media/Dispositife_01.jpg) | ![Oeuvre 3](Media/Dispositife_04.jpg) |
+
+### Description :
+Une installation immersive qui invite les visiteurs à interagir avec des plaques métalliques pour générer des effets visuels et sonores. L’objectif est de montrer comment la collaboration peut aboutir à une création collective unique.
+
+### Ressenti :
+L’expérience était à la fois apaisante et engageante. Le message derrière l’œuvre était fort : en unissant nos actions, on crée quelque chose de beau et harmonieux. 
+
+---
