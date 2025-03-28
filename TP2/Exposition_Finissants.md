@@ -89,3 +89,34 @@ Une installation immersive qui invite les visiteurs à interagir avec des plaque
 L’expérience était à la fois apaisante et engageante. Le message derrière l’œuvre était fort : en unissant nos actions, on crée quelque chose de beau et harmonieux. 
 
 ---
+
+## Etheria
+
+<p align="center">
+  <img src="Media/Photo_Prise_Sur_Les_GitHub_Des_Expo/photo_etheria_01.jpg" width="900">
+  <br>
+</p>
+
+*Photo prise sur (https://ethereal-creators.github.io/Etheria/#/)*
+
+### Description :
+Un jeu interactif projeté sur une table où les joueurs utilisent des accessoires physiques pour contrôler leurs personnages. Une caméra détecte les objets et les transforme en manettes de jeu.
+
+### Ressenti :
+J’ai trouvé cette idée très originale et immersive. L’interaction avec les accessoires apportait une nouvelle dimension au gameplay. Cela m’a rappelé certaines expériences interactives de Moment Factory, ce qui est un bon point de comparaison.
+
+---
+
+## Internature
+
+| Grand Angle | Dispositif|
+|---------|-----------------|
+| ![Oeuvre 1](Media/Internature_02.jpg) | ![Oeuvre 3](Media/Internature_01.jpg) |
+
+### Description :
+Une installation sensorielle où les visiteurs interagissent avec un dispositif (Balle de BasketBall) pour déclencher des effets visuels et sonores. L’objectif est d’offrir une expérience immersive et contemplative.
+
+### Ressenti :
+J’ai apprécié l’ambiance et l’aspect visuel, mais j’aurais aimé un peu plus d’interactions ou de variété dans l’expérience. L’idée est belle et l'expérience reste tout de même très réussie.
+
+---
