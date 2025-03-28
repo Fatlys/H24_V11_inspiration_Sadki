@@ -78,7 +78,7 @@ Trois stations interactives permettent aux visiteurs de créer leur propre arbre
 
 
 ### Ressenti :
-L’idée de voir un arbre évoluer en fonction de nos interactions est fascinante. Par contre, j’ai trouvé que les différences entre les arbres créés étaient parfois trop subtiles. Peut-être qu’une variation plus marquée aurait rendu l’expérience encore plus marquante.
+L’idée de voir un arbre évoluer en fonction de nos interactions est fascinante. Par contre, j’ai trouvé que les différences entre les arbres créés étaient parfois trop subtiles. Le concept reste géniale.
 
 ---
 
@@ -110,7 +110,7 @@ Un jeu interactif projeté sur une table où les joueurs utilisent des accessoir
 *Photo prise sur (https://ethereal-creators.github.io/Etheria/#/)*
 
 ### Ressenti :
-J’ai trouvé cette idée très originale et immersive. L’interaction avec les accessoires apportait une nouvelle dimension au gameplay. Cela m’a rappelé certaines expériences interactives de Moment Factory, ce qui est un bon point de comparaison.
+J’ai trouvé cette idée très originale et immersive. L’interaction avec les accessoires apportait une nouvelle dimension au gameplay.
 
 ---
 
