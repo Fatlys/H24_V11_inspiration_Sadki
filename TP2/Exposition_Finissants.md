@@ -24,11 +24,11 @@ Luminatura est une installation immersive qui m√©lange habilement le visuel, l‚Ä
 ---
 ## LUMINATURA
 
-| Image 1 | Image 2 |
+| Tout seul | Avec une autre personne |
 |---------|-----------------|
 | ![Oeuvre 1](Media/Dispositife_01.jpg) | ![Oeuvre 3](Media/Dispositife_04.jpg) |
 
-| Image 3 |
+| Grand angle|
 |---------|
 |  ![Oeuvre 2](Media/Dispositife_Grand_Angle.jpg)  |
 
