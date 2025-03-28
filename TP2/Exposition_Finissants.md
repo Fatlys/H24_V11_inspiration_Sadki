@@ -9,5 +9,5 @@ Luminatura est une installation immersive qui mélange habilement le visuel, l�
 <p align="center">
   <img src="Media/Luminatura.jpg" width="700">
   <br>
-  <i>L’équipe derrière Luminatura.</i>
+  <i>Luminatura</i>
 </p>
