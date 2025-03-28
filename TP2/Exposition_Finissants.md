@@ -20,3 +20,15 @@ Luminatura est une installation immersive qui mélange habilement le visuel, l�
   <img src="Media/Équipe.jpg" width="700">
   <br>
 </p>
+
+---
+
+## EXPÉRIENCE PERSONNELLE  
+
+### Première visite (25 février 2025)  
+Dès mon arrivée, j’ai été captivé par la richesse des couleurs et l’ambiance immersive de l’installation. L’un des aspects les plus intrigants était l’interactivité : en posant mes mains sur les plaques métalliques, je pouvais influencer l’expérience visuelle et sonore. Ce concept m’a immédiatement séduit.  
+
+### Deuxième visite (18 mars 2025)  
+Pour la présentation finale, quelques améliorations ont été apportées. Une feuille explicative était ajoutée pour donner un aspect plus professionnel. Un projecteur supplémentaire dirigeait maintenant une partie de l’affichage vers le sol, créant une nouvelle dynamique visuelle.  
+
+---
