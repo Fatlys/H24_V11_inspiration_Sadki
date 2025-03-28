@@ -51,6 +51,7 @@ Une installation interactive où le visiteur doit pédaler sur un vélo stationn
 
 <p align="center">
   <img src="Media/Photo_Prise_Sur_Les_GitHub_Des_Expo/photo_C0nDu8_01.webp" width="700">
+<img src="Media/Photo_Prise_Sur_Les_GitHub_Des_Expo/photo_C0nDu8_02.webp" width="700">
   <br>
 </p>
 
