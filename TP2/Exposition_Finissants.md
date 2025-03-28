@@ -53,7 +53,7 @@ Voici les principaux éléments techniques qui composent Luminatura :
 - 🔊  **3 plaques métalliques avec 3haut-parleurs**  
 - 🏮 **plusieurs cables**  
 - 💡 **3 projecteurs de lumière**
-- 🏮 **5 ampoules**  
+- 🏮 **4 ampoules**  
 - 🎥 **2 projecteurs**  
 
 | Cables | Plaque Métallique et Cables |
