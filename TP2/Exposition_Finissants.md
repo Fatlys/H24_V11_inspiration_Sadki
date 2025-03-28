@@ -75,3 +75,9 @@ Trois stations interactives permettent aux visiteurs de créer leur propre arbre
 L’idée de voir un arbre évoluer en fonction de nos interactions est fascinante. Par contre, j’ai trouvé que les différences entre les arbres créés étaient parfois trop subtiles. Peut-être qu’une variation plus marquée aurait rendu l’expérience encore plus marquante.
 
 ---
+
+## LUMINATURA
+
+| Tout seul | Avec une autre personne |
+|---------|-----------------|
+| ![Oeuvre 1](Media/Dispositife_01.jpg) | ![Oeuvre 3](Media/Dispositife_04.jpg) |
