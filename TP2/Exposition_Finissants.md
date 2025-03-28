@@ -120,3 +120,9 @@ Une installation sensorielle où les visiteurs interagissent avec un dispositif 
 J’ai apprécié l’ambiance et l’aspect visuel, mais j’aurais aimé un peu plus d’interactions ou de variété dans l’expérience. L’idée est belle et l'expérience reste tout de même très réussie.
 
 ---
+
+## 3 Cours incontournables
+
+1-Installation Multimédia  
+2-Traitement Audiovisuel
+3-Modélisation 3D
