@@ -42,3 +42,13 @@ Dès mon arrivée, j’ai été captivé par la richesse des couleurs et l’amb
 Pour la présentation finale, quelques améliorations ont été apportées. Une feuille explicative était ajoutée pour donner un aspect plus professionnel. Un projecteur supplémentaire dirigeait maintenant une partie de l’affichage vers le sol, créant une nouvelle dynamique visuelle.  
 
 ---
+
+## MATÉRIAUX UTILISÉS  
+
+Voici les principaux éléments techniques qui composent Luminatura :  
+
+- 🔊  **3 plaques métalliques avec 3haut-parleurs**  
+- 🏮 **plusieurs cables**  
+- 💡 **3 projecteurs de lumière**
+- 🏮 **5 ampoules**  
+- 🎥 **2 projecteurs**  
