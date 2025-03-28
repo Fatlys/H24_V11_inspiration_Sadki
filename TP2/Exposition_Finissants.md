@@ -68,3 +68,7 @@ J’ai adoré le fait que cette installation ne soit pas seulement un spectacle 
 L’expérience était particulièrement intéressante lorsque plusieurs personnes interagissaient simultanément avec les différentes plaques, créant ainsi une symphonie visuelle et sonore unique. Cela renforçait l’idée de connexion entre les visiteurs, ce qui ajoutait une belle dimension sociale à l’installation.  
 
 ---
+
+## CE QUE J'AMÉLIORERAIS
+
+- Même si l'expérience était immersive et bien pensée on pourrais modifier l’intensité et la nature des sons en fonction du temps ou du nombre de participants pour enrichir l'expérience auditive.
