@@ -17,3 +17,7 @@ Cette œuvre utilise une sphère gonflable de grande dimension sur laquelle est 
 ### Œuvre 2 – Sphere Packing: Bach ###
 
 Cette installation sonore monumentale est composée de **1 128 haut-parleurs** intégrés dans une sphère de 3 mètres de diamètre. Chaque haut-parleur diffuse une composition différente de Johann Sebastian Bach. L’ensemble crée un environnement sonore dense et complexe, dans lequel on peut entrer pour vivre une immersion musicale totale.
+
+## Conclusion ##
+
+Cette conférence m’a vraiment permis de découvrir la profondeur du travail de Lozano-Hemmer. J’ai été impressionné par la fusion entre technologie et art, et par la complexité que cela demande en coulisses, autant du point de vue logistique que technique.
