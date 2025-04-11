@@ -6,6 +6,12 @@
 
 Le Mardi 25 mars 2025,  j’ai assisté à une conférence portant sur l’artiste Rafael Lozano-Hemmer. Durant cette présentation, Jade Séguéla a exposé deux œuvres marquantes de l’artiste : **Shadow Tuner** et **Sphere Packing: Bach**. Elle a pris le temps d’expliquer les aspects techniques et logistiques de ces installations interactives, tout en mettant en lumière l’intention artistique derrière chaque pièce.
 
+
+## RafaelLozano-Hemmer ##
+
+Rafael Lozano-Hemmer est un artiste d’origine mexicaine né en 1967. Il est reconnu à l’international pour ses œuvres numériques immersives. Ce qui distingue son approche, c’est l’interactivité subtile qu’il privilégie : ses œuvres invitent à bouger, observer ou simplement exister dans l’espace
+
+
 | Shadow Tuner | Sphere Packing: Bach |
 |---------|-----------------|
 | ![Oeuvre 1](media/shadow_tuner.jpg) | ![Oeuvre 3](media/sphere_packing_bach_GRAND_ANGLE.jpg) |
