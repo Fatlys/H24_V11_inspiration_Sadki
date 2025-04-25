@@ -1,6 +1,7 @@
 #  Ulitsuak | marée montante | rising tide
 
-![image_expo](/exposition_individuelle/media/Rising_Tide.jpg)
+![image_expo](exposition_individuelle/Media/Rising_Tide.jpg
+)
 *Photo du site MBAM *
 
 **🎨 Artiste** : Glenn Gear  
