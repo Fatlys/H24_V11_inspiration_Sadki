@@ -34,8 +34,12 @@ Ce n’est pas une œuvre que je retournerais voir plusieurs fois, mais elle m�
 
 ##  Crédits et remerciements
 
+| 1 | 2 |
+|---------|-----------------|
+| ![Crédits 1](Media/crédit_01.jpg) | ![Crédits 2](Media/crédit_02.jpg) |
 
-| ![](Media/crédit_01.jpg) | ![](Media/crédit_02.jpg) |
+
+
 
 
 
