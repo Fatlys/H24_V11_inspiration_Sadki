@@ -12,6 +12,13 @@ Le 4 avril 2024, j’ai eu la chance de visiter le Musée des beaux-arts de Mont
 
 L’installation montre **deux pianistes**, Louis Lortie (Montréal) et Jean-Efflam Bavouzet (France). Les deux pianistes jouent **presque en même temps**, mais avec des légères différences de rythme. Par moments, ils sont parfaitement synchronisés, puis ils se décalent, se retrouvent, se perdent à nouveau… .Ce qui est marquant, c’est que les images semblent légèrement transparentes, cela donne l’impression qu’on peut voir à travers les couches d’images et que les deux interprétations se **superposent visuellement**.
 
+<p align="center">
+  <img src="Media/reval_03.jpg" width="500">
+  <br>
+ 
+</p>
+
+
 ---
 
 ## ✨ Mon ressenti
