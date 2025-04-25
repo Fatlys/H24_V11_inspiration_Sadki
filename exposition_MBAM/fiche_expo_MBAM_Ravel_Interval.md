@@ -31,3 +31,12 @@ Franchement, cette œuvre m’a un peu plus intéressé que ce à quoi je m’at
 Ce n’est pas une œuvre que je retournerais voir plusieurs fois, mais elle m’a fait réfléchir, et je reconnais qu’elle est **intelligente et bien réalisée**.
 
 ---
+
+##  Crédits et remerciements
+
+
+| ![](Media/crédit_01.jpg) | ![](Media/crédit_02.jpg) |
+
+
+
+
